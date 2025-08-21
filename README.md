@@ -1,5 +1,4 @@
-# Steps
-iTerm2 setup 
+# Intitial setup
 
 ```bash
 
@@ -20,7 +19,19 @@ source ~/.zshrc
 p10k configure
 
 # Optionally install any required packages (removed several for work usage)
+# e.g.
+brew install neofetch 
 
 ```
+
+# Theme customization 
+
+Download .itermcolor files from https://iterm2colorschemes.com/
+
+Go to Profiles > Colors > Color Preset and load themes
+
+# Specific settings: 
+
+
 
 
